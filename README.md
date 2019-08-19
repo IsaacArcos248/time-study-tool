@@ -1,4 +1,4 @@
-##Project Description:
+### Project Description
 My assignment will be a time-study tool. This will enable users to use a time clock to time workers from beginning to end, list their stop times, and totals. From there, there will be an option given to give you your average, your productivity per hour, etc. If possible, I will also be adding functionality to input an entire shift's work time, allowing time for lunch, breaks, and down time.
 
 ### Features
